@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ICode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">修改个人信息</string>
+    <string name="check_updates">检查版本更新</string>
+	<string name="first_tips">请输入手势密码</string>
+	<string name="second_tips">请确认手势密码</string>
+</resources>
